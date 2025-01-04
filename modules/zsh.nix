@@ -90,6 +90,7 @@
       speed = "curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python3 -";
       htop = "btm -b";
       neofetch = "fastfetch";
+      photos = "npx --yes icloudpd --directory ~/icloud-photos --username johanhanses@gmail.com --watch-with-interval 3600";
 
       nv = "nvim";
 
