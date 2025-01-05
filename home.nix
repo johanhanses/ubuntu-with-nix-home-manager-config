@@ -8,6 +8,7 @@
     ./modules/ssh.nix
     ./modules/fzf.nix
     ./modules/catppuccin.nix
+    ./modules/newsboat.nix
   ];
 
   home = {
