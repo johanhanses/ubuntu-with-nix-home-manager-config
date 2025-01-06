@@ -9,6 +9,7 @@
     ./modules/fzf.nix
     ./modules/catppuccin.nix
     ./modules/newsboat.nix
+    ./modules/starship.nix
   ];
 
   home = {

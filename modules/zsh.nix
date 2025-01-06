@@ -45,7 +45,7 @@
       # Add npm global bin to PATH
       export PATH="$HOME/.npm-global/bin:$PATH"
 
-      eval "$(oh-my-posh init zsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/catppuccin_macchiato.omp.json')"
+      # eval "$(oh-my-posh init zsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/catppuccin_macchiato.omp.json')"
     '';
 
     sessionVariables = {

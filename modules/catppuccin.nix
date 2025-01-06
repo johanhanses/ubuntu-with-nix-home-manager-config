@@ -13,7 +13,7 @@
     bottom.flavor = "macchiato";
     bat.enable = true;
     bat.flavor = "macchiato";
-    # starship.enable = true;
-    # starship.flavor = "macchiato";
+    starship.enable = true;
+    starship.flavor = "macchiato";
   };
 }
