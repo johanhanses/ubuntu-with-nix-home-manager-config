@@ -80,6 +80,7 @@
       deploy = "cd $REPOS/github.com/Digital-Tvilling/deployment-configuration";
       backend = "cd $REPOS/github.com/Digital-Tvilling/deployment-configuration/external/localhost";
       dti = "cd $REPOS/github.com/Digital-Tvilling/dti";
+      home = "cd $REPOS/github.com/johanhanses/johanhanses.com/";
       sb = "cd $SECOND_BRAIN";
       config = "cd $XDG_CONFIG_HOME";
       sysfig = "cd $HOME/home-manager-config";
@@ -104,6 +105,7 @@
       ll = "eza -l -a -a -g --group-directories-first --show-symlinks --icons=always";
       l = "eza -l -g --group-directories-first --show-symlinks --icons=always";
       la = "ls -lathr";
+      lg = "lazygit";
 
       tree = "eza --tree";
 
@@ -118,8 +120,6 @@
       gcb = "git checkout -b";
       gcm = "git cz";
       wip = "git commit -m 'wip' --no-verify";
-
-      lg = "lazygit";
 
       k = "kubectl";
 

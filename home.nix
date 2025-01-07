@@ -31,4 +31,5 @@
   programs.bottom.enable = true;
   programs.bat.enable = true;
   programs.neovim.enable = true;
+  programs.lazygit.enable = true;
 }

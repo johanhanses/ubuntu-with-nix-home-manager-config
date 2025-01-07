@@ -15,5 +15,9 @@
     bat.flavor = "macchiato";
     starship.enable = true;
     starship.flavor = "macchiato";
+    lazygit.enable = true;
+    lazygit.flavor = "macchiato";
+    delta.enable = true;
+    delta.flavor = "macchiato";
   };
 }
