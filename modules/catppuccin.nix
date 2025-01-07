@@ -19,5 +19,7 @@
     lazygit.flavor = "macchiato";
     delta.enable = true;
     delta.flavor = "macchiato";
+    newsboat.enable = true;
+    newsboat.flavor = "macchiato";
   };
 }

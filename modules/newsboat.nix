@@ -12,9 +12,13 @@
       {
         url = "https://jnsgr.uk/posts/index.xml";
       }
+      {
+        url = "https://notado.app/rss/jado/mental-health/feed.rss";
+      }
+      {
+        url = "https://www.dn.se/rss/";
+      }
     ];
-
-    extraConfig = "color info white black";
   };
 }
 
