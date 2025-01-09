@@ -7,7 +7,7 @@
     
     urls = [
       {
-        url = "https://nixos.org/blog/newsletters-rss.xml";
+        url = "https://nixos.org/blog/announcements-rss.xml";
       }
       {
         url = "https://jnsgr.uk/posts/index.xml";
@@ -17,6 +17,9 @@
       }
       {
         url = "https://www.dn.se/rss/";
+      }
+      {
+        url = "https://nrd.sh/atom.xml";
       }
     ];
   };
