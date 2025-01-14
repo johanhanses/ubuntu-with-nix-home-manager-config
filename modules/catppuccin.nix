@@ -21,5 +21,7 @@
     delta.flavor = "macchiato";
     newsboat.enable = true;
     newsboat.flavor = "macchiato";
+    zellij.enable = true;
+    zellij.flavor = "macchiato";
   };
 }
