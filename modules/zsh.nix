@@ -128,6 +128,8 @@
       tl = "tmux ls";
       ta = "tmux a";
 
+      z = "zellij";
+
       d = "docker";
       dc = "docker compose";
     };
