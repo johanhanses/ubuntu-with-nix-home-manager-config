@@ -30,6 +30,7 @@
   programs.home-manager.enable = true;
   programs.eza.enable = true;
   programs.bottom.enable = true;
+  programs.btop.enable = true;
   programs.bat.enable = true;
   programs.neovim.enable = true;
   programs.lazygit.enable = true;
