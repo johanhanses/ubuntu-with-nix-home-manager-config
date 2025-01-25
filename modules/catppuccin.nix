@@ -23,5 +23,7 @@
     newsboat.flavor = "macchiato";
     zellij.enable = true;
     zellij.flavor = "macchiato";
+    btop.enable = true;
+    btop.flavor = "macchiato";
   };
 }
