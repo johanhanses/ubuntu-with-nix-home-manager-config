@@ -10,7 +10,6 @@
     ./modules/catppuccin.nix
     ./modules/newsboat.nix
     ./modules/starship.nix
-    ./modules/zellij.nix
   ];
 
   home = {

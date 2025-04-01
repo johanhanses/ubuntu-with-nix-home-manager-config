@@ -118,7 +118,7 @@
       gs = "git status";
       gc = "git checkout";
       gcb = "git checkout -b";
-      gcm = "git cz";
+      gcm = "git commit -m";
       wip = "git commit -m 'wip' --no-verify";
 
       k = "kubectl";
